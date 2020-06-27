@@ -1,4 +1,3 @@
-list = ["Steve Carter", "Mike Jame", "John Snow"]
 def my_collection(array)
   i = 0
   name_collection = []
