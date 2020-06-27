@@ -7,4 +7,4 @@ def my_collection(array)
   end
   name_collection
 end
-my_collection(list) {|i| list.split(" ").reverse}
+
